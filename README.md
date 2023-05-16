@@ -1,6 +1,6 @@
 # bigquery-views-demo
 
-These demo scripts were written to demonstrate how to download data from a view in BigQuery using a SQL query.
+These demo scripts were written for the Connect Coordinating Center Feedback and Review meeting on March 16, 2023. They demonstrate how to access data from a view in BigQuery using a SQL query.
 
 ### Materialized Views in BigQuery
 
