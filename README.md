@@ -1,6 +1,12 @@
 # bigquery-views-demo
 
-These demo scripts were written for the Connect Coordinating Center Feedback and Review meeting on March 16, 2023. They demonstrate how to access data from a view in BigQuery using a SQL query.
+These demo scripts were written for the Connect Coordinating Center Feedback and Review meeting on March 17, 2023. They demonstrate how to access data from a view in BigQuery using a SQL query.
+
+\*NOTE: As of May 17, 2023 these views of site recruitment data are not yet available in the C4C BigQuery Project. Sites will be notified when they become available.
+
+### Video Tutorial
+
+<https://youtu.be/HQY-ZEU-jy8>
 
 ### Materialized Views in BigQuery
 
